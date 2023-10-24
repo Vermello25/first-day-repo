@@ -1,1 +1,2 @@
-# first-day-repo "I did it."
+# first-day-repo
+Added index.html file.
